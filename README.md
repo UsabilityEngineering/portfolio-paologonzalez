@@ -1,5 +1,5 @@
 # Paolo's UX Portfolio
-![picture of me](https://github.com/UsabilityEngineering/portfolio-paologonzalez/blob/main/me.jpg)
+![picture of me](me.jpg)
 
 My name is Paolo and this is my UX Portfolio
 

@@ -5,7 +5,7 @@ My name is Paolo and this is my UX Portfolio
 
 ## UX Team Project
 
-Coming soon.
+Coming soon..
 
 ## UX Journal
 

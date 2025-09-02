@@ -1,6 +1,7 @@
-# UX Portfolio
+# Paolo's UX Portfolio
+![picture of me](main/me.jpg)
 
-About me...
+My name is Paolo and this is my UX Portfolio
 
 ## UX Team Project
 

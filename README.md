@@ -9,4 +9,4 @@ Coming soon..
 
 ## UX Journal
 
-[My Experience Trying To Access Inginious](journal/j01)
+[My Experience Trying To Access Inginious](journal/j01.md)
